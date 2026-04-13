@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26683393/README.md)
-# BoyTwigg-Consulting<p align="center">
-  <img src="assets/logo-dark.png" alt="BoyTwigg Consulting" width="400"/>
-</p>
+<img width="1200" height="627" alt="bag-ventures-header" src="https://github.com/user-attachments/assets/3332cf75-5b12-4239-9760-288dc18dcd6d" />
 
 <p align="center">
   <strong>Operations Design & Automation for Small Businesses</strong><br/>
