@@ -241,4 +241,5 @@ He builds systems that make people and organizations faster, sharper, and more r
 
 ---
 
-© 2026 BoyTwigg Consulting. Client names, proprietary configurations, and sensitive business data are withheld or redacted to protect client confidentiality.
+© 2026 BoyTwigg LLC. 
+Client names, proprietary configurations, and sensitive business data are withheld or redacted to protect client confidentiality.
