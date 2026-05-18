@@ -1,9 +1,14 @@
-![bag-ventures-header](assets/header.png)
+<div align="center">
+
+<img src="assets/header.png" alt="BoyTwigg Consulting" width="600" />
 
 **Operations Design & Automation for Small Businesses**
+
 Systems architecture · Data migration · Workflow automation · AI agent design · Technical consulting
 
-<me@boytwigg.com> · [boytwigg.com](https://boytwigg.com)
+[me@boytwigg.com](mailto:me@boytwigg.com) · [boytwigg.com](https://boytwigg.com) · [👤 About Alex / User Manual](https://github.com/boytwigg/boytwigg)
+
+</div>
 
 ---
 
