@@ -1,14 +1,3 @@
-# File 01: README.md (REVISED, replace entirely)
-
-## Path
-`README.md` (root of repository, replace existing content completely)
-
-## Action
-Replace the entire contents of the existing README.md with the exact content below. Do not merge with the old version. Do not preserve old phrasing. This is a full replacement.
-
-## Content
-
-```markdown
 ![bag-ventures-header](assets/header.png)
 
 **Operations Design & Automation for Small Businesses**
@@ -248,6 +237,3 @@ He builds systems that make people and organizations faster, sharper, and more r
 ---
 
 © 2026 BoyTwigg Consulting. Client names, proprietary configurations, and sensitive business data are withheld or redacted to protect client confidentiality.
-```
-
-## End of file
