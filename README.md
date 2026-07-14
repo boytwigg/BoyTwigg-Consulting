@@ -237,9 +237,9 @@ He builds systems that make people and organizations faster, sharper, and more r
 
 ## Get in Touch
 
-📧 **<me@boytwigg.com>** 🌐 **[boytwigg.com](https://boytwigg.com)**
+📧 **<me@boytwigg.ai>** 🌐 **[Boytwigg AI](https://boytwigg.ai)**
 
 ---
 
-© 2026 BoyTwigg LLC. 
+© 2026 BoyTwigg AI LLC. 
 Client names, proprietary configurations, and sensitive business data are withheld or redacted to protect client confidentiality.
