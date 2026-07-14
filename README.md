@@ -6,7 +6,7 @@
 
 Systems architecture · Data migration · Workflow automation · AI agent design · Technical consulting
 
-[me@boytwigg.com](mailto:me@boytwigg.com) · [boytwigg.com](https://boytwigg.com) · [👤 About Alex / User Manual](https://github.com/boytwigg/boytwigg)
+[me@boytwigg.ai](mailto:me@boytwigg.ai) · [boytwigg.ai](https://boytwigg.ai) · [👤 About Alex / User Manual](https://github.com/boytwigg/boytwigg)
 
 </div>
 
@@ -14,7 +14,7 @@ Systems architecture · Data migration · Workflow automation · AI agent design
 
 ## What We Do
 
-BoyTwigg LLC helps organizations replace manual, disconnected processes with unified, automated systems, and equips individuals with AI-powered tools to multiply their output. We work across the full operations stack, from discovery and audit through implementation and delivery, and design purpose-built AI agents for venture firms, executives, and small businesses.
+BoyTwigg AI LLC helps organizations replace manual, disconnected processes with unified, automated systems, and equips individuals with AI-powered tools to multiply their output. We work across the full operations stack, from discovery and audit through implementation and delivery, and design purpose-built AI agents for venture firms, executives, and small businesses.
 
 We also deliver workshops and keynotes at the intersection of **entrepreneurship**, **AI productivity**, and **mental wellness**, particularly for student athletes and athletic departments.
 
